@@ -1,4 +1,4 @@
-# medical-image-analysis
+# Medical Image Analysis
 
 
 ### This repo comprises various notebooks (see below) for different medical images analysis tasks.
